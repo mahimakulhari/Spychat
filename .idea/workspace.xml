@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86e7d2ec-073b-4ac7-9dbc-bd0e9ce4eb4f" name="Default" comment="" />
+    <list default="true" id="86e7d2ec-073b-4ac7-9dbc-bd0e9ce4eb4f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/first.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spychat.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spychat.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spychat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="56" lean-forward="false" selection-start-line="54" selection-start-column="56" selection-end-line="54" selection-end-column="56" />
+            <state relative-caret-position="409">
+              <caret line="129" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,6 +125,7 @@
         <option value="$PROJECT_DIR$/new.py/new.py" />
         <option value="$PROJECT_DIR$/spy_details.py" />
         <option value="$PROJECT_DIR$/spychat.py" />
+        <option value="$PROJECT_DIR$/first.py" />
       </list>
     </option>
   </component>
@@ -429,8 +443,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spychat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="56" lean-forward="false" selection-start-line="54" selection-start-column="56" selection-end-line="54" selection-end-column="56" />
+        <state relative-caret-position="409">
+          <caret line="129" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
           <folding />
         </state>
       </provider>
