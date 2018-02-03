@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e7d2ec-073b-4ac7-9dbc-bd0e9ce4eb4f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/class.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/file.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/first.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change beforePath="$PROJECT_DIR$/new.py/main.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/new.py/pythonfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/new.py/second.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/new.py/spydetails.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spy_details.py" afterPath="$PROJECT_DIR$/spy_details.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1284" />
@@ -359,7 +349,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1284" height="728" extended-state="0" />
+    <frame x="10" y="20" width="1284" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959871" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
